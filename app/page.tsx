@@ -136,7 +136,7 @@ export default function Page() {
     <section>
       <PreloadResources />
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">
-        hey, I'm leerob 👋
+       hi im kumaran! 👋
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
         {`I'm a frontend developer, optimist, and community builder. I currently `}
